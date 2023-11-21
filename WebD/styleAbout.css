@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+  }
+  
+  .h1 {
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: solid;
+    display: block;
+    font-weight: bold;
+  
+    font-size: 80px;
+    padding: 50px 0 120px 10px;
+    color: #1ED760;
+    box-shadow: 30px;
+  }
+  
+  .p {
+    color:antiquewhite;
+    margin: 10px auto;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    position: relative;
+    top: 0;
+    right: 0;
+    bottom:10px;
+  }
+  
+  ul li {
+    color:antiquewhite;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+  }
